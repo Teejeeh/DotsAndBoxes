@@ -1,0 +1,9 @@
+.vertical-bar {
+  width: 20px;
+  height: 60px;
+}
+
+.horizontal-bar {
+  width: 60px;
+  height: 20px;
+}
